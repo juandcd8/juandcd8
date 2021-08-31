@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juandcd8
 - 👀 I’m interested in ... Algorithmic trading.
-- 🌱 I’m currently learning ... learn to code in R and Python.
-- 💞️ I’m looking to collaborate on ... Algorithmic trading projects.
+- 🌱 I’m currently learning ... to code in R and Python.
+- 💞️ I’m looking to collaborate on ... Algorithmic Trading Projects.
 - 📫 How to reach me ... juandcd8@gmail.com
 
 <!---
